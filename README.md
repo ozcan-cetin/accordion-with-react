@@ -4,3 +4,5 @@
 * Map function ------> questions.map((question)=>{}
 * Short circuit -----> {show && <-p->{info}</-p->}
 * React Icons ----->  AiOutlineMinus, AiOutlinePlus - + 
+
+![](https://github.com/ozcan-cetin/accordion-with-react/blob/master/accordion-min.gif)
