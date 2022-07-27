@@ -10,7 +10,7 @@ function App() {
       <div className="title">
       <h3>Questions and Answers About Login</h3>
       </div>
-      <div className="right">
+      <div>
       {questions.map((question)=>{
         const {id, title, info} = question;
         return(
